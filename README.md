@@ -98,5 +98,6 @@ It allows users to maintain a digital log of their real plants, automatically id
 ## Notes
 - The `resources/` folder contains a Jupyter notebook for training the models and generating the required `.h5` files.  
 - The notebook relies on the [New Plant Diseases Dataset (Kaggle)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
+- Screenshots are also included demonstrating the application's functionality and interface.
 - The `tests/` folder provides sample images for testing and evaluation.
 
