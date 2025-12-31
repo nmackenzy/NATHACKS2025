@@ -1,0 +1,209 @@
+[
+  {
+    "Plant": "Apple",
+    "Disease": "Black_rot",
+    "Scientific name": "Venturia inaequalis",
+    "Causes": "Fungal pathogen overwinters in fallen leaves and fruit; Spreads by wind and rain to new growth.",
+    "Description": "Olive-green to brown velvety spots on leaves; yellowing and premature leaf drop; fruit develops corky spots.",
+    "Cures/Management": "Remove infected leaves/fruit; prune for airflow; avoid overhead watering (don't allow leaves to stay wet); apply fungicides in spring.",
+    "Notes": "Fungicides are not recommended for non-ornamental trees.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/plant-diseases/apple-scab)"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy foliage.",
+    "Cures/Management": "Maintain proper nutrition, watering, and pest monitoring.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/plant-diseases/apple-scab)"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Cedar_apple_rust",
+    "Scientific name": "Gymnosporangium juniperi-virginianae",
+    "Causes": "Rust fungus requiring plants from two different families (Cupressaceae and Rosaceae); spreads via wind from galls; Trees and shrubs often tolerate infection",
+    "Description": "Yellow-orange spots on leaves, later red raised lesions; fruit may develop spots; heavy infection causes defoliation.",
+    "Cures/Management": "Remove galls on nearby Juniper and red cedar trees; Remove infected twigs/branches on Rosaceae plants; apply fungicides at bud break.",
+    "Notes": "Fungicides are not recommended for non-ornamental trees.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/plant-diseases/cedar-apple-rust)"
+  },
+  {
+    "Plant": "Pepper,_bell",
+    "Disease": "Bacterial_spot",
+    "Scientific name": "Xanthomonas euvesicatoria",
+    "Causes": "Bacterium infects leaves/fruit via water splash, handling, or contaminated seed/transplants.",
+    "Description": "Small water-soaked spots on leaves; darken and coalesce; severe cases cause defoliation.",
+    "Cures/Management": "Use certified disease-free seed; avoid overhead watering; rotate crops; apply copper-based sprays preventively.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper)"
+  },
+  {
+    "Plant": "Bell_pepper",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy pepper foliage.",
+    "Cures/Management": "Maintain proper fertilization, irrigation, and pest monitoring.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/vegetables/growing-peppers)"
+  },
+  {
+    "Plant": "Blueberry",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy blueberry foliage.",
+    "Cures/Management": "Maintain proper soil acidity, watering, and nutrition.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/fruit/growing-blueberries)"
+  },
+  {
+    "Plant": "Cherry_(including_sour)",
+    "Disease": "leaf_spot",
+    "Causes": "Fungal pathogen overwinters on fallen leaves; spreads via rain splash.",
+    "Cures/Management": "Remove fallen leaves; prune for airflow; apply fungicides early.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/plant-diseases/cherry-leaf-spot)"
+  },
+  {
+    "Plant": "Corn_(maize)",
+    "Disease": "Cercospora_leaf_spot Gray_leaf_spot",
+    "Scientific name": "Cercospora zeae-maydis",
+    "Causes": "Fungus survives in residue; spreads under warm, humid conditions.",
+    "Description": "Rectangular gray-tan lesions on leaves; may merge and kill large areas.",
+    "Cures/Management": "Use resistant hybrids; rotate crops; till residue; apply foliar fungicides if needed at tasseling.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn)"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Common_rust_",
+    "Scientific name": "Puccinia sorghi (Common rust of corn)",
+    "Causes": "Fungal pathogen; survives in southern regions; spreads via windborne spores.",
+    "Description": "Reddish-brown pustules on both leaf surfaces; may reduce photosynthesis and yield if severe.",
+    "Cures/Management": "Plant resistant hybrids; rotate crops; fungicides if infection occurs early in season.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/corn-pest-management/common-rust-corn)"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy corn foliage.",
+    "Cures/Management": "Maintain proper fertilization, watering, and pest monitoring."
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Early_blight",
+    "Scientific name": "Alternaria solani",
+    "Causes": "Fungus survives in soil, residue, and tubers; infects foliage under warm, humid conditions.",
+    "Description": "Brown spots with concentric rings on older leaves; yellowing and leaf drop.",
+    "Cures/Management": "Plant resistant varieties; prune bottom leaves to prevent early spores; remove infected debris; keep leaves dry to prevent disease spreading.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/early-blight-tomato-and-potato)"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Late_blight",
+    "Scientific name": "Phytophthora infestans",
+    "Causes": "Oomycete pathogen spread by wind/rain; favored by cool, wet weather.",
+    "Description": "Greasy gray-green spots on leaves/stems; white mold on undersides; tubers rot.",
+    "Cures/Management": "Remove infected plants; avoid overhead watering; space out plants for airflow.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/late-blight)"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy potato foliage.",
+    "Cures/Management": "Maintain proper fertilization, watering, and pest monitoring."
+  },
+  {
+    "Plant": "Raspberry",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy raspberry foliage.",
+    "Cures/Management": "Maintain proper fertilization, watering, and pest monitoring."
+  },
+  {
+    "Plant": "Soyabean",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy soyabean foliage.",
+    "Cures/Management": "Maintain proper fertilization, watering, and pest monitoring."
+  },
+  {
+    "Plant": "Strawberry",
+    "Disease": "healthy",
+    "Causes": "No disease present; represents healthy strawberry foliage.",
+    "Cures/Management": "Maintain proper fertilization, watering, and pest monitoring."
+  },
+  {
+    "Plant": "Squash",
+    "Disease": "Powdery_mildew",
+    "Scientific name": "Podosphaera xanthii (Powdery mildew)",
+    "Causes": "Fungus thrives in warm, dry weather with high humidity; spreads by wind.",
+    "Description": "White powdery growth on leaves; leaves yellow, curl, and die.",
+    "Cures/Management": "Plant resistant varieties; space plants for airflow; apply fungicides preventively.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/powdery-mildew-vegetables)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Early_blight",
+    "Scientific name": "Alternaria solani",
+    "Causes": "Fungus infects leaves, stems, fruit via residue; warm, humid weather favors infection.",
+    "Description": "Brown circular spots with concentric rings on lower leaves; yellow halo; leaves drop.",
+    "Cures/Management": "Use resistant cultivars; rotate crops; stake/cage plants; remove infected leaves; apply fungicides preventively.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/early-blight-tomato-and-potato)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Septoria_leaf_spot",
+    "Scientific name": "Septoria lycopersici",
+    "Causes": "Fungal pathogen survives in debris; spreads by rain splash.",
+    "Description": "Small circular brown spots with dark margins and gray centers; lower leaves yellow and drop.",
+    "Cures/Management": "Remove infected leaves; stake plants; rotate crops; apply fungicides early.",
+    "Reference": "NC State Extension (https://content.ces.ncsu.edu/septoria-leaf-spot-of-tomato)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Bacterial_spot",
+    "Scientific name": "Xanthomonas vesicatoria",
+    "Causes": "Bacterium spreads via water splash, tools, infected seed; warm, humid weather favors infection.",
+    "Description": "Small dark spots on leaves; may coalesce; fruit can be scabby; leaves drop early.",
+    "Cures/Management": "Use certified disease-free seed; avoid wet foliage handling; rotate crops; apply copper-based sprays preventively.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Late_blight",
+    "Scientific name": "Phytophthora infestans",
+    "Causes": "Oomycete pathogen spread by wind/rain; cool, wet weather favors infection.",
+    "Description": "Greasy gray-green leaf/stem spots; white mold underside; fruit rots.",
+    "Cures/Management": "Remove infected plants; avoid overhead watering; apply late-blight fungicides preventively.",
+    "Reference": "University of Minnesota Extension (https://extension.umn.edu/disease-management/late-blight)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Tomato_mosaic_virus",
+    "Scientific name": "Tobacco mosaic virus / Tomato mosaic virus",
+    "Causes": "Virus spread mechanically via hands, tools, infected debris.",
+    "Description": "Mottled, light/dark green mosaic; leaves curl; stunted growth.",
+    "Cures/Management": "Use virus-free seed; disinfect tools; remove infected plants; avoid tobacco near tomatoes.",
+    "Reference": "The Humble Organic Farmer (https://thehumbleorganicfarmer.com/understanding-tomato-mosaic-virus-symptoms-causes-and-management/)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Tomato_Yellow_Leaf_Curl_Virus",
+    "Scientific name": "Tomato yellow leaf curl virus (TYLCV)",
+    "Causes": "Virus transmitted by whiteflies; warm climate favors infection.",
+    "Description": "Upward curling leaves, yellow margins, stunted growth, reduced fruit set.",
+    "Cures/Management": "Control whiteflies; remove infected plants; use reflective mulch; plant resistant varieties.",
+    "Reference": "NC State Extension (https://content.ces.ncsu.edu/tomato-yellow-leaf-curl-virus)"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "healthy",
+    "Causes": "No disease present; healthy foliage.",
+    "Cures/Management": "Maintain nutrition, watering, and pest monitoring."
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Black_rot",
+    "Scientific name": "Guignardia bidwellii",
+    "Causes": "Fungal pathogen overwinters in mummified fruit and shoots; spreads via rain splash.",
+    "Description": "Brown circular leaf spots with dark margins; fruit shrivels into black mummies.",
+    "Cures/Management": "Remove mummies/infected leaves; plant in an area with full sun and good air circulation; apply fungicides early.",
+    "Reference": "Missouri Botanical Garden (https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/insects-pests-and-problems/diseases/fruit-spots/black-rot-of-grapes)"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "healthy",
+    "Causes": "No disease present; healthy grapevine foliage.",
+    "Cures/Management": "Maintain vineyard management, pruning, pest monitoring."
+  }
+]

@@ -1,0 +1,6 @@
+customtkinter
+CTkMessagebox
+numpy
+ollama
+tensorflow
+Pillow
