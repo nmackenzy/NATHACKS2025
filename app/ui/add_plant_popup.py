@@ -6,7 +6,7 @@ from ai_logic import identify_species
 def open_add_plant_popup(parent, refresh_callback):
     popup = ctk.CTkToplevel(parent)
     popup.title("Add New Plant")
-    popup.geometry("200x160")
+    popup.geometry("200x170")
     popup.configure(fg_color="#ffffff")
     popup.after(200, lambda: popup.iconbitmap("icon.ico"))
     popup.after(10, popup.focus_force)

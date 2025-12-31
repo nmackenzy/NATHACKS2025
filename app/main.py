@@ -113,6 +113,7 @@ class GardenApp:
             icon="warning", 
             option_1="Cancel", 
             option_2="Delete",
+            justify="center",
             button_color=COLOURS["danger"],
             button_hover_color=COLOURS["danger_hover"]
         )
@@ -187,7 +188,7 @@ class GardenApp:
             
             ctk.CTkButton(
                 header, text="✕", width=24, height=24,
-                fg_color=COLOURS["danger"], hover_color=COLOURS["danger_hover"],
+                fg_color=COLOURS["danger"], hover_color=COLOURS["danger_hover"], text_color="white",
                 command=lambda t=ts: self.remove_log(t)
             ).pack(side="right")
 
@@ -209,7 +210,7 @@ class GardenApp:
         diagnosis = diagnose_disease(path, species)
         add_log(self.selected_plant_id, diagnosis["disease"], diagnosis["cause"], diagnosis["solution"])
 
-        messagebox.showinfo("Diagnosis complete", f"{name} diagnosed with: {diagnosis['disease']}")
+        # messagebox.showinfo("Diagnosis complete", f"{name} diagnosed with: {diagnosis['disease']}")
         self.select_plant(self.selected_plant_id)
 
     def remove_log(self, timestamp):
