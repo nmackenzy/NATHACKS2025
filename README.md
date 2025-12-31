@@ -94,3 +94,9 @@ It allows users to maintain a digital log of their real plants, automatically id
   - A concise two-sentence treatment guide
 - Structured disease data is retrieved first, then passed to the model for paraphrasing, following a retrieval-augmented pattern.
 - If the LLM is unavailable, the app falls back to the original dataset text.
+
+## Notes
+- The `resources/` folder contains a Jupyter notebook for training the models and generating the required `.h5` files.  
+- The notebook relies on the [New Plant Diseases Dataset (Kaggle)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
+- The `tests/` folder provides sample images for testing and evaluation.
+
